@@ -81,18 +81,10 @@ pip install -r requirements.txt
 
 ---
 
-## 📌 Future Work
-
-* NeRF-based 3D scene reconstruction
-* Multi-modal embeddings for 3D assets
-* Real-time inference optimization
-
----
-
 ## 📬 Contact
 
-* LinkedIn: *(Add your profile link)*
-* Email: *(Add your email)*
+- LinkedIn: [Vedansh Sawner]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/vedansh-sawner-5902b9269/))
+* Email: vedanshsawner@gmail.com
 
 ---
 
