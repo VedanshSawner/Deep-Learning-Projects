@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-- LinkedIn: [Vedansh Sawner]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/vedansh-sawner-5902b9269/))
+- LinkedIn: [Vedansh Sawner](https://www.linkedin.com/in/vedansh-sawner-5902b9269/)
 * Email: vedanshsawner@gmail.com
 
 ---
