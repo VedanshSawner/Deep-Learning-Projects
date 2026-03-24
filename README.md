@@ -24,7 +24,7 @@ I am a deep learning enthusiast focused on solving real-world problems using neu
 * Focused on reconstruction quality and PSNR metrics.
 
 📌 **Tech Stack:** PyTorch, OpenCV
-🔗 **Notebook:** *(Add your Colab/GitHub link here)*
+🔗 **Notebook:** *([Add your Colab/GitHub link here](https://www.kaggle.com/code/vedanshsawner/srcnn))*
 
 ---
 
