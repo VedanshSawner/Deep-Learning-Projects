@@ -46,7 +46,6 @@ I am a deep learning enthusiast focused on solving real-world problems using neu
 * Applied on image classification tasks.
 
 📌 **Tech Stack:** PyTorch, Transformers
-🔗 **Notebook:** *(Add your link here)*
 
 ---
 
